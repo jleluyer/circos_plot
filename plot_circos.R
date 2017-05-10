@@ -14,9 +14,9 @@ setwd("~/Omicircos/")
 options(stringsAsFactors = FALSE);
 
 #### Test real data
-temp.seg.f<-read.table("test_init.seg_onlydata.txt",header=T)
-data_label_methyl<-read.table("test_gene.label_methyl_onlyannot.txt",header=T)
-data_value_methyl<-read.table("test_data.methyl.txt",header=T)
+temp.seg.f<-read.table("init.seg.txt",header=T)
+data_label_methyl<-read.table("gene.label_methyl.txt",header=T)
+data_value_methyl<-read.table("data.methyl.txt",header=T)
 
 #Initialize value
 seg.name <- temp.seg.f[,1]
