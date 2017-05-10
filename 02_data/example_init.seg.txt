@@ -1,0 +1,3 @@
+Chromosome chromStart chromEnd the.v NO
+Chr1 0 67385680 NA NA
+Chr2 0 60000000 NA NA
