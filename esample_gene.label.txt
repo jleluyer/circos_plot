@@ -1,0 +1,3 @@
+Chr     po      Gene
+Chr1  33952001        Gene1
+Chr2  40000000 Gene2
